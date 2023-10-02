@@ -6,7 +6,7 @@ permalink: /
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if site.title %}{{ site.title }}{% else %}{{ site.name }}{% endif %}</title>
+    <title>Whisperito - Projects</title>
     <meta name="JekyllTheme" content="Fuse Core by Thomas Jensen" />
     {% if site.robots.description %}<meta name="Description" content="{{ site.robots.description }}" />{% endif %}
     {% if site.robots.keywords %}<meta name="Keywords" content="{{ site.robots.keywords }}" />{% endif %}
@@ -64,15 +64,9 @@ permalink: /
 </head>
 <body class="fullscreen-background">
 
-<div class="glass-pane">
-<div class="container fuse-core-content pb-4">
 
-<div class="row pt-sm-4">
-    <div class="col text-center"><img id="avatar" class="my-3 my-sm-4" alt="{{ site.name }}"
-        src="{% if site.avatar %}{% if site.avatar contains '://' %}{{ site.avatar }}{%
-        else %}{{ site.baseurl }}/{{ site.avatar }}{% endif %}{%
-        else %}{{ site.baseurl }}/images/avatar.svg{% endif %}"></div>
-</div>
+
+
 <div class="row">
     <div class="col">
         <h1 class="text-center fw-bold">{{ site.name }}</h1>
