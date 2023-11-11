@@ -71,6 +71,8 @@ links:
       show: True
       href: https://discord.gg/EGc82c5DVw
       icon: fab fa-discord
+      target: _blank
+    
   - linkedin:
       name: WatchPatching Team
       show: false
