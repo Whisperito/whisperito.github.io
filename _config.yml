@@ -85,7 +85,7 @@ links:
       name: Twitter
       show: true
       href: https://twitter.com/GantDeFer_
-      icon: fab fa-x
+      icon: fab fa-twitter
   - weibo:
       name: 微博
       show: false
@@ -182,6 +182,5 @@ links:
 #extra_html:
 extra_html: >
     Average, ambitious Yo-Kai Watch Modder,
-    you can contact me for asking me things.. I'll try an impossible amount of times, and, I may manage to do them!.
-
+    ask me things.. I'll try to do my best!
 #EOF
