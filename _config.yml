@@ -83,9 +83,9 @@ links:
       icon: fab fa-google-plus
   - twitter:
       name: Twitter
-      show: false
-      href: https://twitter.com/YOUR_TWITTER_USERNAME
-      icon: fab fa-twitter
+      show: true
+      href: https://twitter.com/GantDeFer_
+      icon: fab fa-x
   - weibo:
       name: 微博
       show: false
@@ -181,7 +181,7 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Average YKW Modder,
-    ask me things.. I'll try !.
+    Average, ambitious Yo-Kai Watch Modder,
+    you can contact me for asking me things.. I'll try an impossible amount of times, and, I may manage to do them!.
 
 #EOF
