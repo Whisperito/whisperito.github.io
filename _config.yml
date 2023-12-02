@@ -4,6 +4,7 @@
 markdown: kramdown
 permalink: pretty
 exclude: ['README.*', 'LICENSE.txt']
+include_relative: ['PROJECTS/']
 sass:
     style: expanded
 
