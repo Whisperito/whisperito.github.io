@@ -31,7 +31,6 @@ div.glass-pane {
 
 div.fuse-core-content {
     color: white;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 
@@ -47,7 +46,6 @@ div.fuse-core-content {
 /* --------- Title / Subtitle ------------------------------------------------------------------ */
 
 h1 {
-    letter-spacing: 0.1em;
     @media (max-width: 575.98px) {  /* used on bootstrap size 'xs' */
         letter-spacing: 0;
     }
