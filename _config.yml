@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Whisperito
 #subtitle:
-subtitle: Average YKW Modder.
+subtitle: Average Level-5 Modder.
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Whisperito
@@ -67,9 +67,9 @@ avatar: "https://avatars.githubusercontent.com/u/140485443?"
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
   - Discord:
-      name: Main Discord Server
+      name: Level-5 Modding Hub
       show: True
-      href: https://discord.gg/EGc82c5DVw
+      href: https://discord.gg/wmuhEaNaSZ
       icon: fab fa-discord
       target: _blank
   - linkedin:
@@ -182,6 +182,6 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Average, ambitious Yo-Kai Watch Modder,
+    Average, ambitious Level-5 Modder,
     ask me things.. I'll try to do my best!
 #EOF
